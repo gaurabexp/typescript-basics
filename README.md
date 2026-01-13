@@ -26,15 +26,15 @@ Project Setup: Vite (TypeScript Template)
 Editor: VS Code
 
 📝 Key Topics Covered
-[x] Basic Types (string, number, boolean)
+1. Basic Types (string, number, boolean)
 
-[x] Arrays and Tuples
+2. Arrays and Tuples
 
-[x] Interfaces vs Type Aliases
+3. Interfaces vs Type Aliases
 
-[x] Functions and Optional Parameters
+4. Functions and Optional Parameters
 
-[x] Generics in TS 
+5. Generics in TS 
 
-[x] Integrating TS with React Hooks & Props
+6. Integrating TS with React Hooks & Props
 
